@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 My name: Andres Flores
 My name: Pascal Laurent
+=======
+My name: Andres Flores C
+>>>>>>> f87786c1759e0f75b629fbba30d4e03a12a5b72a
